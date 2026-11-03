@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+  <title id="title">Gemini LINE Bot Labs</title>
+  <desc id="desc">紅黑色設計橫幅：LINE 訊息、Gemini 多輪對話、Google Search 與文件問答。此圖不是聊天截圖。</desc>
+  <rect width="960" height="240" rx="16" fill="#111113"/>
+  <path d="M32 40v160" stroke="#d84a4a" stroke-width="5"/>
+  <text x="60" y="66" fill="#d84a4a" font-family="sans-serif" font-size="13" letter-spacing="3">SHENG13 / CONVERSATION LABS</text>
+  <text x="60" y="124" fill="#f4f4f5" font-family="sans-serif" font-size="38" font-weight="700">Gemini LINE Bot Labs</text>
+  <text x="60" y="170" fill="#aaaab1" font-family="sans-serif" font-size="17">Stateful chat · Google Search · file-based Q&amp;A</text>
+  <g fill="none" stroke="#4a3438" stroke-width="2"><path d="M750 70h140v90h-78l-28 22v-22h-34z"/><path d="M775 98h88m-88 20h66m-66 20h46"/></g>
+  <circle cx="879" cy="171" r="14" fill="#d84a4a"/>
+</svg>
